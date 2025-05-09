@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
-    //printf("hello,world!");
+    // printf("hello,world!");
+    //let me try
     return a.exec();
 }
